@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+  color: rgb(184, 30, 63);
+  font-size: 25px;
+}
+div{
+  background-color: aqua;
+}
+
+.content{
+  padding: 10px;
+  border-radius: 10px;
+  background-color: coral;
+}
+input{
+  padding: 10px 44px;
+  border-radius: 10px;
+  background-color: rgb(236, 225, 165);
+
+}
